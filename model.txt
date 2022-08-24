@@ -1,0 +1,69 @@
+60
+100
+50
+100 Coupe S
+200 5T
+80 quattro
+Coupe GT
+Sport quattro
+90
+V8
+Coupe
+100 Duo (hybrid)
+100/A6
+80
+Cabriolet
+A4 Duo (hybrid)
+TT Coupe
+TT Roadster
+A2
+A4 Cabriolet
+A3 Sportback
+A6 allroad quattro
+A4 Cabriolet
+TT
+A4
+A5
+Q5
+TT 2.0 TDI quattro
+A6 Cabriolet
+A4 allroad quattro
+R8
+R8 V10
+A1
+A3
+A4
+A5
+A6
+A7
+A8
+Q2
+Q3
+A6 allroad quattro
+Q7
+TT
+Q8
+S1
+S2
+SQ2
+TTS
+S3
+S4
+S5
+SQ5
+S6
+S7
+SQ7
+S8
+RS 2 Avant
+TT RS
+RS 3
+RS Q3
+RS 4
+RS 5
+RS 6
+RS 7
+R8
+TT quattro sport
+Q7 V12 TDI
+A8 W12
